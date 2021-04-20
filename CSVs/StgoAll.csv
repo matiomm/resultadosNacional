@@ -1,0 +1,2 @@
+IdForm,Edad,Sexo,Pais,VacunaC19,MarcaVC19,FechaVC19,Dosis,Sangre,Ninguna,Obesidad,Hipertension,Diabetes,Cancer,Enf_res,Enf_cv,PCR,PCR_prev,IGG_prev,Salidas,Prob_contagiado,Domicilio,Comuna_dom,Coor_dom,Trabajo_fuera,Dir_tra,Comuna_tra,Coor_tra,M_trans_1,Frec_1,M_trans_2,Frec_2,M_trans_3,Frec_3,Resultado,Fecha_hora,Lugar,Dir_carro,Coor_carro,Funcionario,T_transcurrido
+5283,43,M,ARMENIA,0,,,,B,0,0,0,0,0,1,0,,Pos,Neg,"Menos de 3 veces",Medio,"Providencias, Tamps., México",,"(26.0088597,-98.48384589999999)",no,,,,Vehículo,6,,,,,negativo,"26/03/2021 12:52",Stgo,,,denis,126
